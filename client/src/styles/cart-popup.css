@@ -1,0 +1,12 @@
+.cart-popup-center::-webkit-scrollbar {
+  width: 5px;
+}
+
+.cart-popup-center::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.cart-popup-center::-webkit-scrollbar-thumb {
+  background-color: #ddd;
+  border-radius: 50px;
+}
